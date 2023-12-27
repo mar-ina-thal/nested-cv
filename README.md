@@ -1,4 +1,7 @@
-# Abstract
+This repository contains the coursework for the Data Science & Information Technologies masters course: Machine Learning in Computational Biology at the National and Kapodistrian University of Athens (NKUA) during the Spring 2023 semester
+
+
+## Abstract
 In this paper we use the nested cross validation method in order to fine
 tune and test the perfomance of 5 machine learning algorithms, namely Sup-
 port Vector Machines, Linear Regression, Gaussian Naive Bayes and Linear
@@ -7,11 +10,11 @@ gorithms we select the one with the best perfomance on the dataset and we
 evaluate several perfomance metrics on the dataset.
 
 
-# Dataset description 
+## Dataset description 
 The Hepatitis C dataset is an openly available
 dataset which consist of 14 attributes
 
-# Contents
+## Contents
 
 1. Project Report
 2. Nested-cv python notebook
